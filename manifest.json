@@ -2,14 +2,12 @@
     "manifest_version": 3,
     "name": "Indie Hackers - No Link Posts",
     "description": "Removes link posts from IndieHackers.com",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icons": {
         "16": "logo/logo-16.png",
         "48": "logo/logo-48.png",
         "128": "logo/logo-128.png"
     },
-    "permissions": [],
-    "host_permissions": [],
     "content_scripts": [{
         "js": ["foreground.js"],
         "matches": ["https://www.indiehackers.com/"]
