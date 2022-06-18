@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Indie Hackers - No Link Posts",
-    "description": "Removes link posts from Indie Hackers",
+    "description": "Removes link posts from IndieHackers.com",
     "version": "0.0.1",
     "icons": {
         "16": "logo/logo-16.png",
